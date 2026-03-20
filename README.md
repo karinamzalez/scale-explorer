@@ -1,5 +1,8 @@
 # Scale Explorer
 
+[Scale Explorer GH Page](https://karinamzalez.github.io/scale-explorer/
+)
+
 An interactive tool for exploring and comparing musical scales built from any frequency.
 
 Set a custom Hz value for **Fa** (the 4th scale degree) and hear a full **Do–Re–Mi–Fa–Sol–La–Ti–Do** major scale built from it using standard diatonic intervals. Compare it side-by-side against:
